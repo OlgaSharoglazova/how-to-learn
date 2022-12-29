@@ -4,7 +4,6 @@
   width: 920px;
   flex-wrap: wrap;
   margin: 0 auto;
-  flex-direction: row;
   padding: 0;
   align-items: baseline;
 }
